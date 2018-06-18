@@ -14,8 +14,8 @@ BioRxiv 331611; doi: https://doi.org/10.1101/331611
 
 ## Demo
 We provided the demo codes to generate gsne maps for systhetic data and *iris* data:
-* gsne/Demo_synthetic.m
-* gsne/Demo_iris.m
+* gsne/matlab/Demo_synthetic.m
+* gsne/matlab/Demo_iris.m
 
 Because the gsne was modified from MATLAB built-in function tsne, some MATLAB private functions need to
 be put into the local folder, this can be done by calling 'GetPrivateFunction', which is in the demo scripts.
