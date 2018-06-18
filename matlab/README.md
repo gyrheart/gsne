@@ -13,7 +13,7 @@ Yuansheng Zhou, Tatyana Sharpee. Using global t-SNE to preserve inter-cluster da
 BioRxiv 331611; doi: https://doi.org/10.1101/331611
 
 ## Demo
-We provided the demo codes to generate gsne maps for systhetic data and *iris* data:
+We provided the demo codes to generate gsne maps for synthetic data and *iris* data:
 * gsne/matlab/Demo_synthetic.m
 * gsne/matlab/Demo_iris.m
 
